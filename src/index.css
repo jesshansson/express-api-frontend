@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+main {
+margin: 10px;
+}
+
+.container {
+  background: #ffffffab;
+  margin: 20px;
+  padding: 20px;
+}
+
+.inputWrapper {
+  font-family: 'Noto Sans TC', sans-serif;
+  display: flex;
+  flex-direction: column;
+
+}
+
+button {
+  margin: 10px
+}
+
+
+
