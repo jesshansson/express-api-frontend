@@ -1,6 +1,6 @@
 # The digital library
 
-A simple yet informative frontend website for the backend project Express API. The library lists 450 books, using Express API and a locally stored json file. 
+A simple yet informative frontend website built with Redux for the backend project Express API. 
 
 See backend at https://github.com/jesshansson/project-express-api
 
